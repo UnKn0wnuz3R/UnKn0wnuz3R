@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jv0bUz4gmCB9myj8Ddh2K6aEhGrL4SDw2IUwB6WkLC3mWO2IieyDIpQRFehPF7jUvOxQmfrZxePw5MWG2++s4Q==",
+  "success": true,
+  "projectFilePath": "/home/unknownuzer/24-1/PL/Lab2/CMinus/CMinus.fsproj",
+  "expectedPackageFiles": [
+    "/home/unknownuzer/.nuget/packages/fsharp.core/8.0.102/fsharp.core.8.0.102.nupkg.sha512",
+    "/home/unknownuzer/.nuget/packages/fslexyacc/11.2.0/fslexyacc.11.2.0.nupkg.sha512",
+    "/home/unknownuzer/.nuget/packages/fslexyacc.runtime/11.2.0/fslexyacc.runtime.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
